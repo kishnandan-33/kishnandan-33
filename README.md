@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kishnandan-33
+- 👋 Hi, I’m @kishnandan
 - 🌱 I’m currently pursuing B.Tech From Galgotias University 
 
 <!---
